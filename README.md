@@ -2,4 +2,5 @@
 Termux-x11 desktop enviornment installation command
 
 
-https://youtu.be/VN6u6wJNvbQ
+
+[![Watch the video]  (https://youtu.be/VN6u6wJNvbQ)]
