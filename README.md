@@ -3,4 +3,4 @@ Termux-x11 desktop enviornment installation command
 
 
 
-[![Watch the video](https://img.youtu.be/vi/VN6u6wJNvbQ/hqdefualt.jpg)](https://youtu.be/VN6u6wJNvbQ)
+[![Watch the video](https://img.youtu.be/vi/VN6u6wJNvbQ/maxresdefualt.jpg)](https://youtu.be/VN6u6wJNvbQ)
