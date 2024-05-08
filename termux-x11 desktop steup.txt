@@ -3,6 +3,7 @@ pkg install x11-repo
 pkg install termux-x11-nightly
 
 pkg install xfce gimp
+
 termux-x11 :0 -xstartup "dbus-launch --exit-with-session xfce4-session"
 
 Note  save this cmd  as a bat file 
